@@ -1,0 +1,3 @@
+git staus
+git status
+
